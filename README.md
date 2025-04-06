@@ -1,0 +1,1 @@
+#This project was my first project i created it to learn how DOM manipulation works and how query selector works 
